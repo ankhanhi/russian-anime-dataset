@@ -1,6 +1,7 @@
 # Web Scraping - Anime List on Russian
 ### Introduction
 This project uses web scraping techniques to extract information about anime from the website https://findanime.net. The information extracted includes the title, short title, image source, tags, translation status, description, count of episodes, and rating of each anime. The extracted information is then saved as a CSV file.
+![animes](https://user-images.githubusercontent.com/78269149/217189991-4f03a26d-1380-4826-98d9-b47dbd1330d9.png)
 
 ### Requirements
 The following libraries are required to run the code in this project:
